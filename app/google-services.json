@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38244037387",
+    "firebase_url": "https://datingfixed3.firebaseio.com",
+    "project_id": "datingfixed3",
+    "storage_bucket": "datingfixed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38244037387:android:179ff2ca877d56e6",
+        "android_client_info": {
+          "package_name": "com.dating.relations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38244037387-pqvrfgfi0tqc5id4vsqnh0b3q37ss9e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzh24vv4-Tocn5M0AYQ_a9acyZqmNKZiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38244037387-pqvrfgfi0tqc5id4vsqnh0b3q37ss9e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
